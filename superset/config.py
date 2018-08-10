@@ -95,7 +95,7 @@ ENABLE_PROXY_FIX = False
 APP_NAME = "Superset"
 
 # Uncomment to setup an App icon
-APP_ICON = "/static/assets/images/superset-logo@2x.png"
+APP_ICON = "https://www.casebook.net/wp-content/uploads/2017/03/logo.svg"
 
 # Druid query timezone
 # tz.tzutc() : Using utc timezone
